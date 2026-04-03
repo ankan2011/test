@@ -1,0 +1,17 @@
+Working directory -> stagging Area -> local repo -> remote repo
+                  ||               ||            ||
+demo-project      -> git add       -> git commit -> git push
+
+ls -a           // Means if any hidden file exits or not 
+git status      // status check what you changes or not
+git inti        // initialise the git folder
+git add .       // for tracking or add file in the git
+
+
+stagging and unstragging
+git commit -m ""
+git log for checking the comment 
+git log --oneline.  checking the only one line of the comment 
+
+
+

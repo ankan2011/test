@@ -9,9 +9,6 @@ git add .       // for tracking or add file in the git
 
 
 stagging and unstragging
-git commit -m ""
-git log for checking the comment 
-git log --oneline.  checking the only one line of the comment 
 
 
 
